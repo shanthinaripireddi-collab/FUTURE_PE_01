@@ -8,8 +8,6 @@ AI-Powered Gym Assistant
 
 
 
-
-
 📌 Overview
 
 This project demonstrates how Artificial Intelligence can be used in a Gym business to provide personalized workout and diet plans for users. It focuses on solving real-world problems using prompt engineering techniques.
